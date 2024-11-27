@@ -1,7 +1,7 @@
 -- Ссылка на Библиотеку
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ilyagolovin2011/GolovinHack/refs/heads/main/UI_Template_Hach"))()
 --[[ 
-В данный момент стоит тема "RJTheme3" ,
+В данный момент стоит тема "IlyaHack" ,
 вы можете использовать другую тему приведённую ниже -
 "1"
 //////////////////////////////////////////////////////////////////
